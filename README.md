@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning the MERN stack
 - 📫 How to reach me: 📧mhmd98itani@gmail.com
 - 🤝My socials: {
-      twitter.com/MhmdElItani, 
-      linkedin.com/in/mohammad-el-itani
+      Twitter: twitter.com/MhmdElItani, 
+      Linkedin: linkedin.com/in/mohammad-el-itani
     }
 <!---
 MoeElItani/MoeElItani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
