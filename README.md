@@ -1,6 +1,6 @@
   - 👋 Hi, I’m Mohammad El Itani -aka @MoeElItani
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning the MERN stack
+  - 👀 I’m interested in web development
+- 🌱 I’m currently learning React
 - 📫 How to reach me: 📧mhmd98itani@gmail.com
 - 🤝My socials: {
       Twitter: twitter.com/MhmdElItani, 
