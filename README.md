@@ -64,3 +64,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeelitani&theme=tokyonight&show_icons=true&locale=en" alt="moeelitani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeelitani&theme=tokyonight" alt="moeelitani" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeelitani&theme=tokyonight" alt="moeelitani" /></a> </p>
